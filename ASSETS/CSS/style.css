@@ -1,0 +1,13 @@
+.navbar.navbar-expand-lg.bg-secondary{
+    background: rgb(9,244,237);
+background: linear-gradient(90deg, rgba(9,244,237,1) 12%, rgba(224,7,242,0.969625350140056) 45%, rgba(0,255,231,1) 100%);
+
+}
+i.fa-brands.fa-facebook.fa-2xl:hover{
+    color: blue;
+
+}
+.list-group{
+    --bs-list-group-bg: transparent
+    -bs-list-group-border-color: transparent
+}
